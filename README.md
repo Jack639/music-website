@@ -55,6 +55,10 @@
 - 后台对用户、歌曲、歌手、歌单信息的管理
 
 <br/>
+## 项目结构图
+![结构图](https://user-images.githubusercontent.com/30720696/126030735-4f59598e-8429-4ead-b514-a542d6d1d1c7.png)
+
+<br/>
 
 ## 技术栈
 
